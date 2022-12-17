@@ -33,7 +33,7 @@ $ git clone https://github.com/endrylmoraes/projeto-pizzaria
 ```
 
 ### __Back-end__
-Na pasta backend, renomeie o arquivo _.env.local-example_ para _.env.local_<br/>
+Na raíz da pasta backend, crie um arquivo chamado .env<br/>
 Informe a URL do banco de dados na variável __DATABASE_URL__.<br/>
 Informe a palavra secreta na variável __JWT_SECRET__<br/>
 ```bash
